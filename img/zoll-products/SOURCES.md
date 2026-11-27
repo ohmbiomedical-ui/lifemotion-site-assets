@@ -18,3 +18,5 @@ Downloaded unmodified from zoll.com on 25 Nov 2026 for ohmhealthcare.com.au (OHM
 | products-emergencycare-ventilators-fabianhfo-hightlight1-640x375.jpg | https://www.zoll.com/-/media/images/generic-photography/product/emergencycare/product_emergencycare_ventilators/fabian-hfo/products_emergencycare_ventilators_fabianhfo_hightlight1.ashx?la=en-gb&h=375&w=640&hash=9E00549BE729AB80E75D5E773C83A7D9 |
 | products-emergencycare-ventilators-fabianhfo-hightlight2-640x375.jpg | https://www.zoll.com/-/media/images/generic-photography/product/emergencycare/product_emergencycare_ventilators/fabian-hfo/products_emergencycare_ventilators_fabianhfo_hightlight2.ashx?la=en-gb&h=375&w=640&hash=6DD9A0A2DDA38790C9FB10798A07E66E |
 | products-emergencycare-ventilators-fabianhfo-hightlight3-640x375.jpg | https://www.zoll.com/-/media/images/generic-photography/product/emergencycare/product_emergencycare_ventilators/fabian-hfo/products_emergencycare_ventilators_fabianhfo_hightlight3.ashx?la=en-gb&h=375&w=640&hash=37E5298BD2E040F52844CCF1C511469F |
+
+- zoll-fabian-*.jpg: official ZOLL product images supplied by ZOLL to OHM 27 Nov 2026, resized for web.
